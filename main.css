@@ -1,0 +1,48 @@
+html {
+  font-family: "HG丸ｺﾞｼｯｸM-PRO";
+  text-align: center;
+  align-items: center;
+}
+
+
+
+.title01{
+  font-size: 300%;
+  background: #84ddbb;
+  height:160px;
+  padding-top: 70px;
+}
+
+.title02{
+  font-size: 64px;
+}
+
+strong{
+  color: #152c63;
+}
+
+table{
+  margin: auto;
+   font-size: 32px;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  background: #f3fbff;
+  border-top: 2px skyblue dashed;
+  border-bottom: 2px skyblue dashed;
+  height: 32px;
+  width:auto;
+}
+
+li {
+  font-size: 160%;
+  padding: 0 0 0 2em;
+}
+
+a:link { color: #9fcfff; }
+a:visited { color:#81b0ff; }
+a:hover { color:#ff0000; }
+a:active { color:#ff6600; }
